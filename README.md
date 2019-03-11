@@ -11,6 +11,6 @@ Install gem:
 ```gem install 'ae_easy-router'```
 
 Require gem:
-```require 'ae_easy-router'```
+```require 'ae_easy/router'```
 
 Documentation can be found [here](http://rubydoc.org/gems/ae_easy-router/frames).
