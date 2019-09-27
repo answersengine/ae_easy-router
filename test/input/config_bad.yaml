@@ -13,4 +13,9 @@ router:
       - class: AeEasy::Router::Test::SeederA
       - class: AeEasy::Router::Test::SeederB
       - class: GHIJK
+  finisher:
+    routes:
+      - class: AeEasy::Router::Test::FinisherA
+      - class: AeEasy::Router::Test::FinisherB
+      - class: LMNOP
 bbb: 222
