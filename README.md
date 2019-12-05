@@ -5,12 +5,16 @@
 # AeEasy router module
 ## Description
 
-AeEasy router is part of AeEasy gem collection. It provides an easy way to route execution to your classes, quite useful to allow TDD implementations with unit tests without the need for complex project folder structures.
+AeEasy router is part of AeEasy gem collection and an alias to [dh_easy-router](https://github.com/DataHenOfficial/dh_easy-router/) gem. It provides a compatibility layer for an easy way to route execution to your classes, quite useful to allow TDD implementations with unit tests without the need for complex project folder structures.
 
 Install gem:
-```gem install 'ae_easy-router'```
+```ruby
+gem install 'ae_easy-router'
+```
 
 Require gem:
-```require 'ae_easy/router'```
+```ruby
+require 'ae_easy/router'
+```
 
-Documentation can be found [here](http://rubydoc.org/gems/ae_easy-router/frames).
+See [dh_easy-router](https://github.com/DataHenOfficial/dh_easy-router/) gem for documentation.
